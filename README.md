@@ -9,8 +9,6 @@ Particle elements are defined in the Particle package, initial values are '<', '
 
 Problem statement:
 
-You have a little over two hours to complete this challenge (11 AM PDT). Please read the description of the problem completely and if you have any please contact me at 210 391 9459.
-
  The challenge is to model a chamber with particles! Given a string (that represents a chamber), model the contents of the chamber until the chamber is empty. A chamber of length N is represented by a string of length N. Spaces represent empty locations in the chamber. A > represents a right traveling particle. A < represents a left traveling particle. An “X” represents two overlapping particles: one traveling right, the other left. All particles travel one space per interval.
 
  Implements the function
